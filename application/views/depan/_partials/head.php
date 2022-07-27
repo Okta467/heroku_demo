@@ -32,7 +32,7 @@
 <!-- Flexslider  -->
 <link rel="stylesheet" href="<?= base_url('assets/css/flexslider.css'); ?>">
 <!-- Flaticons  -->
-<link rel="stylesheet" href="<?= base_url('assets/fonts/flaticon/font/flaticon.css'); ?>">
+<link rel="stylesheet" href="<?= base_url('assets/fonts/flaticon/flaticon.css'); ?>">
 <!-- Owl Carousel -->
 <link rel="stylesheet" href="<?= base_url('assets/css/owl.carousel.min.css'); ?>">
 <link rel="stylesheet" href="<?= base_url('assets/css/owl.theme.default.min.css'); ?>">
